@@ -1,0 +1,16 @@
+#divForm {
+    background-image: url('../asset/undraw_reading_time_re_phf7.svg');
+    background-color: #fbfeff;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center left;
+    background-size: contain;
+}
+.fffrom {
+    padding: 35px 20px;
+    backdrop-filter: blur(10px) saturate(90%);
+    -webkit-backdrop-filter: blur(10px) saturate(90%);
+    background-color: rgba(172, 185, 192, 0.3);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+}
